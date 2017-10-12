@@ -13,3 +13,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 this is deployment info
+
+### Copyright
+
+2017 Git.Training

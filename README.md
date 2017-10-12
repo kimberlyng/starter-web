@@ -10,6 +10,7 @@ This is an intro :)
 Sample website with plenty of files for demos
 
 ## How to Contribute
+Please for this repo and issue pull request for review.
 
 ## Deployment
 this is deployment info
